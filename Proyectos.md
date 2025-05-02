@@ -27,3 +27,11 @@ Programé la **interfaz gráfica y el movimiento** de la pelota y los jugadores.
 🛠️ *Herramientas*: Python, Pygame
 
 ---
+## 🎁 Amigo Secreto (Python)
+Un script que recibe una lista de nombres y asigna aleatoriamente a quién le toca regalar.  
+Se asegura de que nadie se asigne a sí mismo.
+🛠️ *Herramientas*: Python, aleatoriedad, listas
+
+🔗 [Repositorio en GitHub](https://github.com/CarloRomer0/ChallengeAlura.git)
+
+---
