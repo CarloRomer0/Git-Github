@@ -54,3 +54,7 @@ Canciones que me prenden y acompañan mientras programo, entreno o viajo en metr
 - Tecnología emergente (IA, algoritmos, programación) 🤖  
 - Economía digital 💰  
 - Todo lo relacionado con el espacio y el universo 🌌
+
+---
+
+> _“Todo dato es valioso si sabes cómo clasificarlo”_ – *Yo mismo 😎*
