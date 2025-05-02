@@ -48,3 +48,9 @@ Canciones que me prenden y acompañan mientras programo, entreno o viajo en metr
 - *Pacific Rim* & *Kung Fu Panda* 🐼
 
 ---
+
+## 🧠 Cosas que me encanta aprender
+
+- Tecnología emergente (IA, algoritmos, programación) 🤖  
+- Economía digital 💰  
+- Todo lo relacionado con el espacio y el universo 🌌
