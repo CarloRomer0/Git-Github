@@ -57,3 +57,7 @@ Apasionado por la programación, la lógica, el trabajo en equipo y el hockey so
 | 📖 Leer              | Desde ciencia ficción hasta clásicos de la literatura   |
 
 ---
+
+## ✨ Frase que me inspira
+
+> _“Si solo haces lo que sabes hacer, nunca serás más de lo que eres hoy”_ – *Shifu*
