@@ -14,3 +14,14 @@ Un vistazo a lo que me inspira, entretiene y despierta curiosidad 🚀
 | La Odisea                 | Homero                       |
 
 ---
+
+## 🎧 Música y Artistas
+
+- Duki 🎤  
+- Post Malone 🎶  
+- Eladio Carrión 🎵  
+- Fall Out Boy 🔥
+
+Canciones que me prenden y acompañan mientras programo, entreno o viajo en metro 🚇
+
+---
