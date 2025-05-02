@@ -37,3 +37,14 @@ Canciones que me prenden y acompañan mientras programo, entreno o viajo en metr
 | Cuphead                     | Plataformas / Retro|
 
 ---
+
+## 📺 Series y Películas
+
+- *Lucifer* 😈  
+- *Suits* 💼  
+- *Cómo conocí a tu madre* 🍻  
+- *Sangre de Zeus* ⚔️  
+- *Bob Esponja* 🍍  
+- *Pacific Rim* & *Kung Fu Panda* 🐼
+
+---
