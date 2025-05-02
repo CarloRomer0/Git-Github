@@ -20,3 +20,5 @@ Implementamos un algoritmo de búsqueda eficiente para simular navegación y dec
 🛠️ *Herramientas*: Python, grafos, búsqueda heurística
 
 ---
+
+## 🏓 Juego de Ping Pong (Python)
