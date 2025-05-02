@@ -14,3 +14,15 @@ Apasionado por la programación, la lógica, el trabajo en equipo y el hockey so
 - **Ciudad:** Ciudad de México 🇲🇽  
 - **Correo:** carlo.romero.calixto@gmail.com
 
+---
+
+## 🎓 Formación Académica
+
+| Nivel       | Institución                                        | Ubicación | Duración  |
+|-------------|----------------------------------------------------|-----------|-----------|
+| Primaria    | Primaria Saúl Venancia Achondo Lozoya             | CDMX      | 6 años    |
+| Secundaria  | Técnica 19 Diego Rivera                            | CDMX      | 3 años    |
+| Preparatoria| CCH Sur - UNAM                                     | CDMX      | 3 años    |
+| Universidad | Facultad de Ingeniería - UNAM                      | CU, CDMX  | En curso  |
+
+---
