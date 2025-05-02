@@ -22,3 +22,8 @@ Implementamos un algoritmo de búsqueda eficiente para simular navegación y dec
 ---
 
 ## 🏓 Juego de Ping Pong (Python)
+Videojuego 1v1 con controles, detección de colisiones, puntuación y animación.  
+Programé la **interfaz gráfica y el movimiento** de la pelota y los jugadores.
+🛠️ *Herramientas*: Python, Pygame
+
+---
