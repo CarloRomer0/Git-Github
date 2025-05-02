@@ -25,3 +25,15 @@ Un vistazo a lo que me inspira, entretiene y despierta curiosidad 🚀
 Canciones que me prenden y acompañan mientras programo, entreno o viajo en metro 🚇
 
 ---
+
+## 🎮 Videojuegos
+
+| Juego                        | Tipo               |
+|-----------------------------|--------------------|
+| Batman: Arkham (saga)       | Aventura / Acción  |
+| Call of Duty: Warzone       | Shooter            |
+| Fallout                     | Mundo abierto      |
+| Star Wars Jedi (Saga)       | Aventura / Sci-Fi  |
+| Cuphead                     | Plataformas / Retro|
+
+---
