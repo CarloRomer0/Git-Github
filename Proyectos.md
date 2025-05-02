@@ -35,3 +35,4 @@ Se asegura de que nadie se asigne a sí mismo.
 🔗 [Repositorio en GitHub](https://github.com/CarloRomer0/ChallengeAlura.git)
 
 ---
+> _Estos proyectos reflejan mi interés por resolver problemas, crear experiencias interactivas y aplicar la lógica computacional._
