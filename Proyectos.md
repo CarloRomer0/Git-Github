@@ -13,3 +13,5 @@ Un videojuego de combate por turnos inspirado en Pokémon, donde diseñé:
 🎯 *Mi favorito por su complejidad y personalización*
 
 ---
+
+## 🧭 Ruta más óptima (Python)
