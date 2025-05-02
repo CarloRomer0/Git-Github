@@ -15,3 +15,8 @@ Un videojuego de combate por turnos inspirado en Pokémon, donde diseñé:
 ---
 
 ## 🧭 Ruta más óptima (Python)
+Un programa que utiliza **grafos y nodos** para encontrar la mejor ruta entre puntos.  
+Implementamos un algoritmo de búsqueda eficiente para simular navegación y decisiones inteligentes.
+🛠️ *Herramientas*: Python, grafos, búsqueda heurística
+
+---
