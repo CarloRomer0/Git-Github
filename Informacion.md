@@ -26,3 +26,22 @@ Apasionado por la programación, la lógica, el trabajo en equipo y el hockey so
 | Universidad | Facultad de Ingeniería - UNAM                      | CU, CDMX  | En curso  |
 
 ---
+
+## 💡 Habilidades y Soft Skills
+
+### 🤝 Trabajo en Equipo
+- Colaboración activa en proyectos académicos
+- Comunicación clara y receptiva
+- Capacidad para liderar y para seguir instrucciones
+
+### 🔧 Resolución de Problemas
+- Pensamiento lógico y analítico
+- Enfoque en soluciones prácticas
+- Creatividad aplicada a la programación
+
+### 🧠 Aprendizaje y Adaptabilidad
+- Uso de herramientas como Git, Figma, Notion, GitHub Projects
+- Aprendizaje constante de nuevas tecnologías
+- Capacidad para mantener la calma bajo presión
+
+---
