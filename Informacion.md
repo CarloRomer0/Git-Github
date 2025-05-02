@@ -45,3 +45,15 @@ Apasionado por la programación, la lógica, el trabajo en equipo y el hockey so
 - Capacidad para mantener la calma bajo presión
 
 ---
+
+## ⚽ Hobbies
+
+| Actividad            | Descripción                                             |
+|----------------------|---------------------------------------------------------|
+| 🎧 Escuchar música   | Duki, Post Malone, Eladio Carrión y más                 |
+| 🏑 Jugar hockey      | Mi deporte favorito, juego hockey sobre césped          |
+| 🏋 Practicar deporte | Gym, entrenamiento físico constante                     |
+| 🎬 Ver series/pelís  | Fan de series como Suits, Bob Esponja, Sangre de Zeus   |
+| 📖 Leer              | Desde ciencia ficción hasta clásicos de la literatura   |
+
+---
