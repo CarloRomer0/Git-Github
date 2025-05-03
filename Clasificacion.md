@@ -55,6 +55,7 @@ Canciones que me prenden y acompañan mientras programo, entreno o viajo en metr
 - Economía digital 💰  
 - Todo lo relacionado con el espacio y el universo 🌌
 
+Hola, soy **Dey**, tienes muy buen gusto en libros y musica y los juegos ni se diga, igual me *encanta aprender del espacio y el universo,*  en otra vida estudie algo relacionado a eso jaja. ☺️🔭
 ---
 
 > _“Todo dato es valioso si sabes cómo clasificarlo”_ – *Yo mismo 😎*
